@@ -1,0 +1,61 @@
+*{margin:0;padding:0;}
+#top{float:right;background: #413F3F;width: 100%;height: 70px;}
+#top img{margin-left:20px;float:left;width: 175px;height: 70px;}
+#top ul{
+	float:right;
+	margin-right: 20px;
+    margin-top: 25px;
+
+}
+#top ul li{
+	float: left;
+	margin-left: 31px;
+}
+#top ul li a:link,a:visited{
+	float:right;
+	color:#FFF;
+	text-decoration: none;
+	font-family: "微软雅黑";
+	font-size: 0.9em;
+}
+#top ul li a:hover,a:active{
+	text-decoration: none;
+	color: #AEAAAA;
+}
+#all{width:100%;height:100%;background:#D8D4D4;}
+.one{    width: 97%;
+	     height:100%;
+	     background:#FFF;
+	     margin:20px 20px 0 20px;
+	     box-shadow: 2px 2px 3px #aaaaaa;
+	     float:left;
+	    }
+
+.one h1{font-family: "微软雅黑";font-size: 1.5em;line-height: 3em;padding-top: 15px;margin-left: 20px;}
+.one h2{color:#8E8C8C;font-family: "微软雅黑";font-size: 1.2em;line-height: 1.5em;
+float:left;padding:0 0 20px 0;display:block;width:100%;margin-left: 20px;}
+.author p{font-size: 0.9em;padding-left: 20px;color:#8E8C8C;}
+.article{line-height: 1.5;font-size: 1em;word-wrap:break-word;padding: 20px;text-indent: 2em;}
+.article p a{color:#2C2CE1;}
+.article  ul{list-style: none;}
+.article dl{border: 1px solid gray;width:150px;height: 150px;font-size:0.9em;margin :20px;}
+.article dl img{width: 105px;height:105px;padding:10px 0px 0px 23px;float:left;}
+.article1{line-height: 1.5;font-size: 1em;word-wrap:break-word;padding: 20px;}
+.article1 ol{list-style: none;}
+.article1 table{width: 100%;border: 1px solid #CFCBCB;border-collapse: collapse;}
+.article1 table  tr th{background: #272626;color: #FFF;text-align: left;padding-left: 5px;}
+.article1 table tr:last-child{background: #CFCBCB;}
+.article1 table tr td{padding-left: 5px;}
+.article1 table tr a{color:#2C2CE1;}
+.one h3{padding: 7px 10px;border-left: solid 3px #CFC8C8;margin: 20px 20px 0px 20px;font-size: 1em;}
+#form1{margin:15px 0 0 280px;text-align: right;float:left;}
+.one ul{list-style: none;}
+#form1 ul p{font-size: 0.8em;color: #BAB8B8;margin: 5px 0 10px 0;}
+#form1 ul input{margin: 5px 0 10px 0;}
+#form2{margin:200px 100px 0px 80px;}
+#form2 label{float: left;text-align:right;}
+#form2 ul li {margin: 5px 0 15px 280px;}
+#form3 input{width:98%;background: #4221F0;height:40px;margin:0 0 20px 12px;color: #FFF;font-size: 1em;font-family: "微软雅黑";}
+#two{width:100%;height: 70px;background-color:#000000;margin-top: 30px;}
+#two footer{color: #FFF;font-size: 0.8em;text-align: center;padding-top: 20px;}
+.clear{clear: both;}
